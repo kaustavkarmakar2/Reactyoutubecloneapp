@@ -32,7 +32,7 @@ export default () => {
       params: {
         part: "snippet",
         maxResults: 5,
-        key: 'AIzaSyD9UvIVktfbiiMrlm1dFr8NIwvjnIPI28k',
+        key: 'AIzaSyC2Gf79yTZXQhKE3Cs4OZte-L4vRP7uFWw',
         q: searchTerm,
       }
     });
